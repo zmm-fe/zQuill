@@ -19,5 +19,8 @@
   "homepage": "https://github.com/zmm-fe/zQuill#readme",
   "dependencies": {
     "quill": "^2.0.0-dev.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.46.0"
   }
 }
